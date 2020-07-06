@@ -1,0 +1,9 @@
+Package: com.h4ckua11.gmsbeta
+Name: GoogleMapsStatusBarETA
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the ETA of Google Maps in your StatusBar
+Maintainer: h4ckua11
+Author: h4ckua11
+Section: Tweaks

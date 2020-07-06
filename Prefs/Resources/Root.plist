@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>			<string>PSGroupCell</string>
+			<key>label</key>		<string>Time Format</string>
+            <key>footerText</key>   <string>Select the Time Format to use in the StatusBar.</string>
+		</dict>
+		<dict>
+            <key>cell</key>             <string>PSSegmentCell</string>
+            <key>label</key>            <string>Time Format</string>
+            <key>key</key>              <string>timeFormat</string>
+            <key>defaults</key>         <string>com.h4ckua11.gmsbeta</string>
+            <key>default</key>          <string>24h</string>
+            <key>validTitles</key>      <array>
+                                            <string>AM/PM</string>
+                                            <string>24h</string>
+                                        </array>
+            <key>validValues</key>      <array>
+                                            <string>am/pm</string>
+                                            <string>24h</string>
+                                        </array>
+        </dict>
+	</array>
+	<key>title</key>				<string>GoogleMapsStatusBarETA</string>
+</dict>
+</plist>
