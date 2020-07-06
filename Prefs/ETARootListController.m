@@ -2,10 +2,6 @@
 
 @implementation ETARootListController
 
-- (void)viewDidLoad {
-	[super viewDidLoad];
-}
-
 - (PSSpecifier *)specifierForKey:(NSString *)key {
     for (PSSpecifier *spec in _specifiers) {
         NSString *keyInLoop = [spec propertyForKey:@"key"];
