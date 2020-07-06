@@ -5,7 +5,6 @@
 @end
 
 @interface ETARootListController : PSListController
-    - (void)viewDidLoad;
     - (NSMutableArray *)specifiers;
 
     - (id)readPreferenceValue:(PSSpecifier *)specifier;
