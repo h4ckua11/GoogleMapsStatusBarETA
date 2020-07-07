@@ -1,7 +1,7 @@
 Package: com.h4ckua11.gmsbeta
 Name: GoogleMapsStatusBarETA
 Depends: mobilesubstrate
-Conflicts: com.huchundong.PerfectTimeXS, com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Conflicts: com.yourepo.kingmehu.perfecttimexs, com.huchundong.PerfectTimeXS, com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Show the ETA of Google Maps in your StatusBar
